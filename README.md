@@ -1,3 +1,5 @@
+![Screenshot 2023-06-29 135034](https://github.com/aniiketbarphe/Hiring-Challenge-by-Code-Gladiators_Doceree-SeniorDataScientist_June2023/assets/84449238/95494f5e-517b-497f-acc8-d853ce122c10)
+
 # Hiring-Challenge-by-Code-Gladiators_Doceree-SeniorDataScientist_June2023
 
 **A) About Challenge:-** 
@@ -21,7 +23,9 @@ Doceree is looking for Senior Data Scientist to join our Data Science and Engine
 **C) Rules:-**
 
 **C1)** Participants will have two attempts to solve MCQ round.
+
 **C2)** There will be no negative marking.
+
 **C3)** Time duration is 30 minutes.
 
 **D) Competition Link:-** https://www.techgig.com/challenge/0oltic190zgz4h7
