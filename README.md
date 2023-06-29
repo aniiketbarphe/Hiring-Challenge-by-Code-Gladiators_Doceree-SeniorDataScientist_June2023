@@ -2,35 +2,42 @@
 
 # Hiring-Challenge-by-Code-Gladiators_Doceree-SeniorDataScientist_June2023
 
-**A) About Challenge:-** 
+**1) About Challenge:-** 
 
 Doceree is looking for Senior Data Scientist to join our Data Science and Engineering team and strengthen our data science team with the various prediction models for the adserver.
 
-**B) Skills Required:-** This challenge will be testing the following skills:
+**2) Skills Required:-** This challenge will be testing the following skills:
 
-**B1) Primary Skills:-** Machine Learning, Data Scientist, NLP, Neural Networks, Logistic Regression
+**a) Primary Skills:-** Machine Learning, Data Scientist, NLP, Neural Networks, Logistic Regression
 
-**B2) Essential Skills:-**
+**b) Essential Skills:-**
 
-**B2.1)** B.Tech/M.tech/PHD in CSE/IT/Statistics from a Tier 2 college and have an experience of 2-4 years in data science.
+**b1)** B.Tech/M.tech/PHD in CSE/IT/Statistics from a Tier 2 college and have an experience of 2-4 years in data science.
 
-**B2.2)** Expert in writing python/java code to create models.
+**b2)** Expert in writing python/java code to create models.
 
-**B2.3)** Comfortable in writing database queries for data preparation.
+**b3)** Comfortable in writing database queries for data preparation.
 
-**B2.4)** Hands on experience in NLP is an advantage.
+**b4)** Hands on experience in NLP is an advantage.
 
-**C) Rules:-**
+**3) Rules:-**
 
-**C1)** Participants will have two attempts to solve MCQ round.
+**3.1)** Participants will have two attempts to solve MCQ round.
 
-**C2)** There will be no negative marking.
+**3.2)** There will be no negative marking.
 
-**C3)** Time duration is 30 minutes.
+**3.3)** Time duration is 30 minutes.
 
 # Summary
 
-**D) Competition Link:-** https://www.techgig.com/challenge/0oltic190zgz4h7
+**a) Best Score:-** **16.00** out of **25.00**
 
-**E) Rank Scored:-**
+![IMG3290623](https://github.com/aniiketbarphe/Hiring-Challenge-by-Code-Gladiators_Doceree-SeniorDataScientist_June2023/assets/84449238/2a90bd07-e03f-4073-a955-95235856a6c7)
+
+**b) Competition Link:-** https://www.techgig.com/challenge/0oltic190zgz4h7
+
+**c) Rank Scored:-** **75** out of **1307** registered participants (As on 29 June 2023)
+
+![Final_Image](https://github.com/aniiketbarphe/Hiring-Challenge-by-Code-Gladiators_Doceree-SeniorDataScientist_June2023/assets/84449238/aa2b12fb-0564-4d8d-baa8-7f873626e9cf)
+
 
