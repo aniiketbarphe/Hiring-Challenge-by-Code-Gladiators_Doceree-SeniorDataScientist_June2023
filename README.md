@@ -28,6 +28,8 @@ Doceree is looking for Senior Data Scientist to join our Data Science and Engine
 
 **C3)** Time duration is 30 minutes.
 
+# Summary
+
 **D) Competition Link:-** https://www.techgig.com/challenge/0oltic190zgz4h7
 
 **E) Rank Scored:-**
