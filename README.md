@@ -36,8 +36,9 @@ Doceree is looking for Senior Data Scientist to join our Data Science and Engine
 
 **b) Competition Link:-** https://www.techgig.com/challenge/0oltic190zgz4h7
 
-**c) Rank Scored:-** **75** out of **1307** registered participants (As on 29 June 2023)
+**c) Rank Scored:-** **83** out of **1372** registered participants 
 
-![Final_Image](https://github.com/aniiketbarphe/Hiring-Challenge-by-Code-Gladiators_Doceree-SeniorDataScientist_June2023/assets/84449238/aa2b12fb-0564-4d8d-baa8-7f873626e9cf)
+![Aniket_Leaderboard](https://github.com/aniiketbarphe/Hiring-Challenge-by-Code-Gladiators_Doceree-SeniorDataScientist_June2023/assets/84449238/1b79dc66-abc0-4a2c-9ac5-56a3d074429c)
+
 
 
